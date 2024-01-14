@@ -9,8 +9,11 @@ The dataset includes key information about State(the long name of the state), Ye
 Analysis Highlights
 
 1-Average Crime Rate: A year-wise overview of the overall crime rate from 1960 to 2019.
+
 2-Total Property and Violent Crimes: Detailed counts for property crimes (burglary, larceny, motor-related) and violent crimes (assault, murder, rape, robbery).
+
 3-Correlation Analysis: There is a notable correlation (coefficient: 0.67) between property and violent crime rates.
+
 4-States Analysis:
 
 States with constantly high property crime rates:

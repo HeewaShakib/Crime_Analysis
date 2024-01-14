@@ -17,6 +17,7 @@ States with constantly high property crime rates:
 3. Florida
 4. Nevada
 5. Hawaii
+   
 States with constantly low property crime rates:
 1. West Virginia
 2. South Dakota
@@ -30,6 +31,7 @@ States with constantly high violent crime rates:
 3. New York
 4. Maryland
 5. California
+   
 States with constantly low violent crime rates:
 1. North Dakota
 2. Vermont
